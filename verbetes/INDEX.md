@@ -16,3 +16,4 @@ formato `- [Título](arquivo.md) — resumo curto`.
 - [Estacionamento](estacionamento.md) — pastel e vitamina no Ipolon I; sábado só no Ipolon II.
 - [Sala de robótica](sala-robótica.md) — pastel e vitamina no Ipolon I; sábado só no Ipolon II.
 - [Internet: como se conectar na rede Unifil](conexao-internet.md) — como se conectar na intert Unifil
+- [Emprestimo de computadores](emprestimo-de-computadores.md) — computadores para realizar as atividades da aula.
